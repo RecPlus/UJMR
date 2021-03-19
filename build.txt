@@ -1,0 +1,4 @@
+displayName = Useful Jungle Mimic [c/FFCC73:Reboot!]
+author = Dokko
+version = 0.1
+homepage = https://discord.gg/WZAWCDg
